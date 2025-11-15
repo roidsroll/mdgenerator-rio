@@ -1,0 +1,5 @@
+{
+  "name": "AI Markdown Generator",
+  "description": "An AI-powered web application designed to generate well-structured and professional Markdown (.md) files based on user requests. Users can describe the desired content, and the AI will produce the complete Markdown text, ready to be copied for use in software projects, documentation, and more.",
+  "requestFramePermissions": []
+}
